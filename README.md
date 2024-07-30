@@ -1,2 +1,2 @@
-# CSC485A1
-CSC485 Assignment1
+# CSC485 - Computational Linguistics
+A1 - Dependency Trees
